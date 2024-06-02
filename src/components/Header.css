@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(59, 47, 47);
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+}

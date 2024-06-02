@@ -1,0 +1,254 @@
+[
+    {
+      "Title": "Iron Man",
+      "Year": "2008",
+      "imdbID": "tt0371746",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 3",
+      "Year": "2013",
+      "imdbID": "tt1300854",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man",
+      "Year": "2002",
+      "imdbID": "tt0145487",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 2",
+      "Year": "2010",
+      "imdbID": "tt1228705",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: No Way Home",
+      "Year": "2021",
+      "imdbID": "tt10872600",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man of Steel",
+      "Year": "2013",
+      "imdbID": "tt0770828",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ant-Man",
+      "Year": "2015",
+      "imdbID": "tt0478970",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Homecoming",
+      "Year": "2017",
+      "imdbID": "tt2250912",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man 2",
+      "Year": "2004",
+      "imdbID": "tt0316654",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Amazing Spider-Man",
+      "Year": "2012",
+      "imdbID": "tt0948470",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Across the Spider-Verse",
+      "Year": "2023",
+      "imdbID": "tt9362722",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Elephant Man",
+      "Year": "1980",
+      "imdbID": "tt0080678",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Austin Powers: International Man of Mystery",
+      "Year": "1997",
+      "imdbID": "tt0118655",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRhZTY0MDItY2I1Yi00MGE3LTk1ZDEtMjA0ZGZhNDQyNGU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Invisible Man",
+      "Year": "2020",
+      "imdbID": "tt1051906",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzc0OGI3NzctNDljYS00MjFiLWIzNjktNjY5MTYwYWRiYWUwXkEyXkFqcGdeQXVyNTU5Mzk0NjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ip Man",
+      "Year": "2008",
+      "imdbID": "tt1220719",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Gray Man",
+      "Year": "2022",
+      "imdbID": "tt1649418",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "I Love You, Man",
+      "Year": "2009",
+      "imdbID": "tt1155056",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjI5NTEyNV5BMl5BanBnXkFtZTcwNjQ1NTMzMg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ant-Man and the Wasp: Quantumania",
+      "Year": "2023",
+      "imdbID": "tt10954600",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_SX300.jpg"
+    },
+    {
+      "Title": "First Man",
+      "Year": "2018",
+      "imdbID": "tt1213641",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Wrath of Man",
+      "Year": "2021",
+      "imdbID": "tt11083552",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "A Serious Man",
+      "Year": "2009",
+      "imdbID": "tt1019452",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hollow Man",
+      "Year": "2000",
+      "imdbID": "tt0164052",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjMzY0ZjgtMjZhOC00MTRlLWEyM2EtYjBhOGVlMTQ0MTgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man on the Moon",
+      "Year": "1999",
+      "imdbID": "tt0125664",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI1Mjc3MzAtZDk0OS00OTZlLTlhZjktNzA3ODgwZGY2NWIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Swiss Army Man",
+      "Year": "2016",
+      "imdbID": "tt4034354",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Bicentennial Man",
+      "Year": "1999",
+      "imdbID": "tt0182789",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "A Man Called Otto",
+      "Year": "2022",
+      "imdbID": "tt7405458",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Gemini Man",
+      "Year": "2019",
+      "imdbID": "tt1025100",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDJlYzMyZTctYzBiMi00Y2E5LTk4YzgtNzU5YzE0MDZkY2EwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SX300.jpg"
+    },
+    {
+      "Title": "A Single Man",
+      "Year": "2009",
+      "imdbID": "tt1315981",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5MTk4MjQ2M15BMl5BanBnXkFtZTcwNDU0MzEwMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Family Man",
+      "Year": "2000",
+      "imdbID": "tt0218967",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzMTQ4NDYtNWRkZi00NTYxLThlZDItMzI1MmU1MmU5ZWQ3XkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man Who Wasn't There",
+      "Year": "2001",
+      "imdbID": "tt0243133",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjEwMGZkYTgtMTA5Ny00OWFhLTgzMWItYjhhMWUxYTIxNDgwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man with the Golden Gun",
+      "Year": "1974",
+      "imdbID": "tt0071807",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjY3YmM1MTItMWE0NC00NjFmLWFkMDgtMWFiZjY5NzQyZGVjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ip Man 2",
+      "Year": "2010",
+      "imdbID": "tt1386932",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM2MTcyMDgtZTZkNS00NTg5LWIwNzEtMmY1Y2I1MTZjYTE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man in the High Castle",
+      "Year": "2015",
+      "imdbID": "tt1740299",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWEwNzQ4NzUtMWRmYS00NDdiLTg5NDItODA5M2M4YTM0ZTE2XkEyXkFqcGdeQXVyMTAzNjU2NjM1._V1_SX300.jpg"
+    },
+    {
+      "Title": "Dead Man",
+      "Year": "1995",
+      "imdbID": "tt0112817",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjZiMDUyYmEtNzAwYy00YjNiLWEyODItNTJmMjZjOWQ3MThlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Dead Man Walking",
+      "Year": "1995",
+      "imdbID": "tt0112818",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Family Man",
+      "Year": "2019",
+      "imdbID": "tt9544034",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRjZWVmMzItNTdmYS00OWEzLTgyOGUtNThiNTU2ZThlYjY0XkEyXkFqcGdeQXVyMTIxMDk2NDE4._V1_SX300.jpg"
+    }
+]
